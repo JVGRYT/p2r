@@ -1,37 +1,19 @@
-@font-face {
-    font-family: 'open_sansregular';
-    src: url('/fonts/opensans-variablefont_wdthwght-webfont.woff2') format('woff2'),
-         url('/fonts/opensans-variablefont_wdthwght-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-body{
-    background-color: black;
-    opacity: 100;
-}
-h1{
-    color:white;
-    font-family: 'open_sansregular', Arial, sans-serif;
-    font-weight:normal;
-    font-style:normal;
-}
-p{
-    color: white;
-    font-family: 'open_sansregular', Arial, sans-serif;
-    font-weight:normal;
-    font-style:normal;
-    text-align: justify;
-}
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    height: 50%;
-  }
-  .center2{
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
-  }
+<!DOCTYPE html>
+<html>
+<head><title>Portal 2: REMASTERED</title>
+<link rel="stylesheet" href="style.css">
+<body>
+  <img src="logo_title.png" width="480" height="216" class="center"/>
+  <p>Portal 2: REMASTERED is an upcoming mod for Portal 2: Community Edition. Its goal is to breathe new life into what is now an outdated game, graphics-wise.</p>
+  <p>This mod is being created to test the limits of the P2:CE engine. The engine packages new and improved features, such as: Physically Based Rendering (for more realistic 3D materials), Parallax Corrected Cubemaps (for more accurate reflections that move with the room, rather than the player), and Cascade Shadow Mapping (for realtime dynamic shadows when used with environment lighting and skyboxes).</p>
+<! --Sourced from: https://img-comparison-slider.sneas.io/-->
+<img-comparison-slider>
+  <img slot="first" src="img1.jpg" width="1024" height="576" class="center2"/>
+  <img slot="second" src="img2.jpg" width="1024" height="576" class="center2"/>
+</img-comparison-slider>
+<script
+  defer
+  src="https://unpkg.com/img-comparison-slider@7/dist/index.js"
+></script>
+</body>
+</html>

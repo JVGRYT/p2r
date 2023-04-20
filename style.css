@@ -10,6 +10,9 @@ body{
     background-color: black;
     opacity: 100;
 }
+img{
+    align-self: center;
+}
 h1{
     color:white;
     font-family: 'open_sansregular', Arial, sans-serif;

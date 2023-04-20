@@ -1,15 +1,22 @@
+@font-face {
+    font-family: "opensans";
+    src: url(fonts/opensans-variablefont_wdthwght-webfont.woff);
+    src: url(fonts/opensans-variablefont_wdthwght-webfont.woff2);
+}
 body{
     background-color: black;
     opacity: 100;
-    @font-face {
-        font-family: "Open Sans";
-        src: url(fonts/opensans-variablefont_wdthwght-webfont.woff);
-        src: url(fonts/opensans-variablefont_wdthwght-webfont.woff2)
-    }
 }
 h1{
     color:white;
+    font-family: 'opensans';
+    font-weight:normal;
+    font-style:normal;
 }
 p{
     color: white;
+    font-family: ;
+    font-family: 'opensans';
+    font-weight:normal;
+    font-style:normal;
 }

@@ -1,7 +1,7 @@
 @font-face {
-    font-family: "opensans-variablefont_wdthwght-webfont";
-    src: url("/fonts/opensans-variablefont_wdthwght-webfont.woff") format("woff");
-    src: url("/fonts/opensans-variablefont_wdthwght-webfont.woff2") format("woff2");
+    font-family: 'opensans-variablefont_wdthwght-webfont';
+    src: url('/fonts/opensans-variablefont_wdthwght-webfont.woff') format('woff');
+    src: url('/fonts/opensans-variablefont_wdthwght-webfont.woff2') format('woff2');
 }
 body{
     background-color: black;
@@ -9,13 +9,13 @@ body{
 }
 h1{
     color:white;
-    font-family: "opensans-variablefont_wdthwght-webfont";
+    font-family: 'opensans-variablefont_wdthwght-webfont';
     font-weight:normal;
     font-style:normal;
 }
 p{
     color: white;
-    font-family: "opensans-variablefont_wdthwght-webfont";
+    font-family: 'opensans-variablefont_wdthwght-webfont';
     font-weight:normal;
     font-style:normal;
 }

@@ -1,11 +1,11 @@
-@font-face {
-    font-family: "Open Sans";
-    src: url(fonts/opensans-variablefont_wdthwght-webfont.woff);
-    src: url(fonts/opensans-variablefont_wdthwght-webfont.woff2)
-}
 body{
     background-color: black;
     opacity: 100;
+    @font-face {
+        font-family: "Open Sans";
+        src: url(fonts/opensans-variablefont_wdthwght-webfont.woff);
+        src: url(fonts/opensans-variablefont_wdthwght-webfont.woff2)
+    }
 }
 h1{
     color:white;

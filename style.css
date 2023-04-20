@@ -38,7 +38,7 @@ div{
     background-image: linear-gradient(rgba(0,0,0,0), black);
   }
   #logo{
-    background-image: url('img2.jpg');
+    background-image: url('img2.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;

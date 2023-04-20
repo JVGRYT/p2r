@@ -25,6 +25,13 @@ p{
     font-style:normal;
     text-align: justify;
 }
+div{
+    color: white;
+    font-family: 'open_sansregular', Arial, sans-serif;
+    font-weight:normal;
+    font-style:normal;
+    text-align: justify;
+}
 .center {
     display: block;
     margin-left: auto;

@@ -8,7 +8,12 @@
 }
 body{
     background-color: black;
-    opacity: 100;
+    opacity: 50%;
+    background-image: "img2";
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 h1{
     color:white;

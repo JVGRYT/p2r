@@ -1,7 +1,7 @@
 @font-face {
     font-family: "opensans-variablefont_wdthwght-webfont";
-    src: url("opensans-variablefont_wdthwght-webfont.woff") format("woff");
-    src: url("opensans-variablefont_wdthwght-webfont.woff2") format("woff2");
+    src: "opensans-variablefont_wdthwght-webfont.woff" format("woff");
+    src: "opensans-variablefont_wdthwght-webfont.woff2" format("woff2");
 }
 body{
     background-color: black;

@@ -1,11 +1,11 @@
+@font-face {
+    font-family: "opensans-variablefont_wdthwght-webfont";
+    src: url("/fonts/opensans-variablefont_wdthwght-webfont.woff") format("woff");
+    src: url("/fonts/opensans-variablefont_wdthwght-webfont.woff2") format("woff2");
+}
 body{
     background-color: black;
     opacity: 100;
-    @font-face {
-        font-family: "opensans-variablefont_wdthwght-webfont";
-        src: url('/fonts/opensans-variablefont_wdthwght-webfont.woff') format("woff");
-        src: url('/fonts/opensans-variablefont_wdthwght-webfont.woff2') format("woff2");
-    }
 }
 h1{
     color:white;

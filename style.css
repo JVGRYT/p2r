@@ -12,13 +12,13 @@ body{
 }
 h1{
     color:white;
-    font-family: 'open_sansregular';
+    font-family: 'open_sansregular', Arial, sans-serif;
     font-weight:normal;
     font-style:normal;
 }
 p{
     color: white;
-    font-family: 'open_sansregular';
+    font-family: 'open_sansregular', Arial, sans-serif;
     font-weight:normal;
     font-style:normal;
 }

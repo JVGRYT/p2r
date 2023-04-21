@@ -22,23 +22,11 @@ div{
     font-style:normal;
     text-align: justify;
 }
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-    height: 50%;
-  }
-  .center2{
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
-  }
   #gradient{
-    background-image: linear-gradient(transparent, black);
+    background-color: black;
   }
   #logo{
-    background-image: linear-gradient(transparent, black), url('img2.png');
+    background-image: url('img2.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;

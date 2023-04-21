@@ -35,7 +35,7 @@ div{
     margin-right: auto;
   }
   #gradient{
-    background-image: linear-gradient(rgba(0,0,0,0), black);
+    background-image: linear-gradient(url('img2.png'), black);
   }
   #logo{
     background-image: url('img2.png');

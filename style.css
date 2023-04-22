@@ -31,3 +31,6 @@ div{
     background-attachment: fixed;
     background-size: cover;
   }
+.bold{
+  font-weight: bold;
+}

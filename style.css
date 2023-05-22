@@ -43,7 +43,7 @@ div{
     transition: box-shadow 200ms ease-in-out;
   }
 
-  .slider-example-focus:focus {
+  .slider-example-focus:hover {
     outline: none;
     box-shadow: 0px 0px 15px 5px #ffff;
   }

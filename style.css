@@ -35,3 +35,22 @@ div{
 .bold{
   font-weight: bold;
 }
+  .slider-example-focus {
+    /*
+      The style below isn't necessary.
+      It has been added for the sake of smoothness.
+    */
+    transition: box-shadow 200ms ease-in-out;
+  }
+
+  .slider-example-focus:focus {
+    outline: none;
+    box-shadow: 0px 0px 15px 5px #0c5d10;
+  }
+  .custom-animated-handle {
+    transition: transform 0.2s;
+  }
+
+  .slider-with-animated-handle:hover .custom-animated-handle {
+    transform: scale(1.2);
+  }
